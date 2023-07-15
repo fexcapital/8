@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8A31AC3629D4a410910bF4beEf146c150019F932",
+  "SCAN_LINK": "https://etherscan.io/0x8A31AC3629D4a410910bF4beEf146c150019F932",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "COLORS REBORN",
+  "SYMBOL": "COLOR",
+  "MAX_SUPPLY": 2200,
+  "WEI_COST": 110000000000000000,
+  "DISPLAY_COST": 0.11000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/colors-reborn",
+  "SHOW_BACKGROUND": true
+}
