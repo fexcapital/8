@@ -343,7 +343,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Minted: {data.totalSupply} / {CONFIG.MAX_SUPPLY}
+              {data.totalSupply} / {CONFIG.MAX_SUPPLY}
             </s.TextTitle>
 
 
