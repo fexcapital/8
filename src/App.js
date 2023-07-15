@@ -102,7 +102,7 @@ export const StyledLink = styled.a`
 function App() {
   const dispatch = useDispatch();
   const [elapsedSeconds, setElapsedSeconds] = useState(0);
-  const endTime = new Date("2023-07-15T13:00:00Z");
+  const endTime = new Date("2023-07-15T11:00:00Z");
   const initialTimeRemaining = endTime - new Date();
   const [mintOpen, setMintOpen] = useState(initialTimeRemaining <= 1000);
   const blockchain = useSelector((state) => state.blockchain);
@@ -298,7 +298,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              July 15, 9:00 AM ET
+              July 15, 7:00 AM ET
             </s.TextDescription>
 
 
